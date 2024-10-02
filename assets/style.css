@@ -1,15 +1,23 @@
-#containers {
+header{
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+header img {
+    padding-top: 15px;
+}
+
+main {
     width: 60%;
     margin-left: auto;
     margin-right: auto;
 }
 
 #text {
-    text-align: center;
     background-color: #FFFAF0;
     border-top: 1px solid 	#FFD700;    
-    padding: 8px;
-    margin-bottom: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #text2 {
@@ -41,14 +49,6 @@ h1 {
     margin-right: auto; 
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 video {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
 }
