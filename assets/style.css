@@ -1,0 +1,29 @@
+#containers {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#text {
+    text-align: center;
+    background-color: yellow;
+    border-top: 100px;
+}
+#text2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+#container {  
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
